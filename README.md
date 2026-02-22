@@ -1,4 +1,3 @@
-````markdown
 # 🚀 Three-Tier Web Application Deployment on AWS EKS
 
 This repository contains a comprehensive guide and the necessary configuration files to provision infrastructure and deploy a Three-Tier Web Application on Amazon EKS (Elastic Kubernetes Service).
