@@ -93,7 +93,7 @@ kubectl get nodes
 Deploy the application components to your newly created cluster.
 
 ```bash
-kubectl create namespace workshop
+kubectl create namespace three-tier
 kubectl apply -f .
 ```
 
