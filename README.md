@@ -193,9 +193,4 @@ Delete the security groups associated with this project in the VPC/EC2 dashboard
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/prince-chauhan-20901930b](https://www.linkedin.com/in/prince-chauhan-20901930b)
 * 💻 **GitHub:** [https://github.com/ONEPRINCEISREAL](https://github.com/ONEPRINCEISREAL)
 
-```
 
----
-
-Agar chahe to mai isko **aur professional bana du (badges + architecture diagram + screenshots + resume-level)** bhi bana sakta hoon 👍
-```
